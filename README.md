@@ -9,4 +9,4 @@ I've experienced and read about GitHub having issues displaying Jupyter Notebook
 2019-09-17 [Interacting with SQL](Interacting%20with%20SQL.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/Interacting%20with%20SQL.ipynb)\
 2019-09-19 [Run a Report](Run%20a%20Report.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/Run%20a%20Report.ipynb)\
 2019-10-08 [Create Aged WIP Graph](Create%20A%20Graph%20of%20Aged%20WIP.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/Create%20A%20Graph%20of%20Aged%20WIP.ipynb)\
-2019-10-11 [Create a Word Doc](Create%20a%20Word%20Document.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/Create%20a%20Word%20Document.ipynb)
+2019-10-11 [Create a Word Doc](Create%20a%20Word%20Document.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/Create%20a%20Word%20Document.ipynb?flush_cache=true)
