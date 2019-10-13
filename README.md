@@ -5,6 +5,8 @@ This is an attempt to show how to use Notebooks to retrieve and analyse data in 
 
 I've experienced and read about GitHub having issues displaying Jupyter Notebooks, so there is a second link for each which launches out to Jupyter's Notebook viewer using the source here on GitHub.
 
+I invite you to create an issue using the GitHub Issues tracker if anything is worded oddly, outright wrong, or could have further clarification. These are mostly written in the hours between putting kids to bed and drifting off to sleep.
+
 ## Introduction
 2019-09-17 [Interacting with SQL](Interacting%20with%20SQL.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/Interacting%20with%20SQL.ipynb)\
 2019-09-19 [Run a Report](Run%20a%20Report.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/Run%20a%20Report.ipynb)\
