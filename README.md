@@ -17,4 +17,6 @@ I invite you to create an issue using the GitHub Issues tracker if anything is w
 2020-01-10 [Send Clubhouse.IO Story Digest](ClubHouse%20Story%20Digest.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/ClubHouse%20Story%20Digest.ipynb)\
 2020-10-02 [Extract Tablular Data from PDF](ExtractPDFDataWithTabula.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/ExtractPDFDataWithTabula.ipynb)\
 2020-12-04 [Obtaining Crystal Report Files from 3E](Obtaining%20Crystal%20Reports%20from%203E.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/Obtaining%20Crystal%20Reports%20from%203E.ipynb)\
-2021-03-04 [Merging Multiple PDFS from Chrome River XML Export](https://github.com/junctionapps/3e-notebooks/blob/master/ExtractMultipleInvoices.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/ExtractMultipleInvoices.ipynb)
+2021-03-04 [Merging Multiple PDFS from Chrome River XML Export](https://github.com/junctionapps/3e-notebooks/blob/master/ExtractMultipleInvoices.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/ExtractMultipleInvoices.ipynb)\
+2022-08-29 [Create Excel File Showing Users/Roles/Dashboards](https://github.com/junctionapps/3e-notebooks/blob/master/Users-dashboards-roles.ipynb) | [Jupyter NBViewer](https://nbviewer.jupyter.org/github/junctionapps/3e-notebooks/blob/master/ExtractMultipleInvoices.ipynb)
+
